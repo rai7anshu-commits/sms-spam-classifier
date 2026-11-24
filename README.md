@@ -29,7 +29,6 @@ python spam_classifier.py "Congratulations! You won a free prize, click now"
 ```
 
 ## Results
-Fill this in after you run `train` (copy the real numbers):
 
 | Model | Accuracy | Precision | Recall | F1 |
 |---|---|---|---|---|
@@ -37,12 +36,7 @@ Fill this in after you run `train` (copy the real numbers):
 | Logistic Regression | | | | |
 
 ## Tech stack
-Python, pandas, scikit-learn, joblib
-
-## Future improvements
-- Try an SVM or a neural network
-- Build a small web interface with Flask or Streamlit
-- Handle imbalanced classes more carefully
+Python, pandas, scikit-learn, Joblib 
 
 ## Author
 Anshuman Rai: [GitHub](https://github.com/rai7anshu-commits)
